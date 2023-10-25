@@ -1,7 +1,7 @@
 ---
 title: "About Superphysics"
 description: "Superphysics is a unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether."
-img: /covers/spblack.jpg
+image: /covers/spblack.jpg
 toc: false
 weight: 100
 ---
@@ -16,7 +16,7 @@ img4: "https://sorasystem.sirv.com/books/economist.jpg"
 
 ## It Began with the Financial Crisis 
 
-Superphysics arose from ['Juan']'s personal research on the 2008 Financial Crisis which led to the 2008 Food Crisis, 2011 Arab Spring, and the Eurozone crisis.
+Superphysics arose from Juan's personal research on the 2008 Financial Crisis which led to the 2008 Food Crisis, 2011 Arab Spring, and the Eurozone crisis.
 
 The 2008 Financial Crisis arose from Allan Greenspan not doing his job of regulating the banking industry, citing Adam Smith who advocated non-regulation. So Adam Smith should be such an evil guy for causing so much trouble, right?
 

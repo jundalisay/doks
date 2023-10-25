@@ -37,14 +37,14 @@ images = ["cover.png"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
-  toTopButton = false # false (default) or true
-  breadcrumbTrail = false # false (default) or true
+  sectionNav = ["research"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  toTopButton = true # false (default) or true
+  breadcrumbTrail = true # false (default) or true
   headlineHash = true # true (default) or false
   scrollSpy = true # true (default) or false
 
   # Multilingual
-  multilingualMode = false # false (default) or true
+  multilingualMode = true # false (default) or true
   showMissingLanguages = true # whether or not to show untranslated languages in the language menu; true (default) or false
 
   # Versioning
@@ -66,13 +66,13 @@ images = ["cover.png"]
   # KaTex
   katex = false
 
-  # Repository
-  editPage = false # false (default) or true
-  lastMod = false # false (default) or true
-  repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
-  docsRepo = "https://github.com/h-enk/doks"
-  docsRepoBranch = "main" # main (default), master, or <branch name>
-  docsRepoSubPath = "" # "" (none, default) or <sub path>
+  # # Repository
+  # editPage = false # false (default) or true
+  # lastMod = false # false (default) or true
+  # repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
+  # docsRepo = "https://github.com/h-enk/doks"
+  # docsRepoBranch = "main" # main (default), master, or <branch name>
+  # docsRepoSubPath = "" # "" (none, default) or <sub path>
 
   # SCSS colors
   # backGround = "yellowgreen"
@@ -97,15 +97,15 @@ images = ["cover.png"]
   highlightBroken = false # true or false (default)
 
 # Images (@hyas/images)
-[hyas_images]
-  [hyas_images.landscape]
-    normalize = "1360x765" # "1600x900" (default)
-    lqip = "16x9" # "16x9" (default)
-    widths = [480, 640, 800, 1024]
-  [hyas_images.portrait]
-    normalize = "765x1360" # "900x1600" (default)
-    lqip = "9x16" # "9x16" (default)
-    widths = [480, 640, 800, 1024]
+# [hyas_images]
+#   [hyas_images.landscape]
+#     normalize = "1360x765" # "1600x900" (default)
+#     lqip = "16x9" # "16x9" (default)
+#     widths = [480, 640, 800, 1024]
+#   [hyas_images.portrait]
+#     normalize = "765x1360" # "900x1600" (default)
+#     lqip = "9x16" # "9x16" (default)
+#     widths = [480, 640, 800, 1024]
 
 # Inline SVG (@hyas/inline-svg)
 [inline_svg]
